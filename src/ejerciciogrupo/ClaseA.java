@@ -10,5 +10,4 @@ package ejerciciogrupo;
  * @author Daniel Ortiz Vallejo
  */
 public class ClaseA {
-    
 }
