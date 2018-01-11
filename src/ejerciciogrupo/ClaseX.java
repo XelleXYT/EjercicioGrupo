@@ -10,5 +10,4 @@ package ejerciciogrupo;
  * @author xp
  */
 public class ClaseX {
-    
 }
