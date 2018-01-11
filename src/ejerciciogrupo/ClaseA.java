@@ -7,15 +7,8 @@ package ejerciciogrupo;
 
 /**
  *
- * @author Alex
+ * @author Daniel Ortiz Vallejo
  */
-public class EjercicioGrupo {
-    
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-	// TODO code application logic here
-    }
+public class ClaseA {
     
 }
